@@ -1,9 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on rchart
+- 🔭 I’m currently working on rchart (see pinned)
 - 🌱 I’m currently learning rust and svelte
-- 👯 I’m looking to collaborate on nothing specific
-- 🤔 I’m looking for help with tauri
-- 💬 Ask me about something
-- 📫 How to reach me: logan.y.nguyen@gmail.com
+- 👯 I’m looking to collaborate on nothing specific really but anything interesting
+- 🤔 I’m looking for help with microservices
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
